@@ -1,5 +1,4 @@
 ﻿# weatherappv.1
  
-[https://imgur.com/sN8xDS6]
-
+<img src="https://imgur.com/sN8xDS6">
 
