@@ -1,5 +1,5 @@
 ﻿# weatherappv.1
 
-![alt text]([http://url/to/img.png](https://imgur.com/sN8xDS6))
+![alt text]([https://imgur.com/sN8xDS6])
 
 
